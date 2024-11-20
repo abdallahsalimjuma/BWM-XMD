@@ -131,7 +131,7 @@ adams({
     const _0x315c2c = _0x2fab7f.data;
     let _0x1d9b0f = "*Yoo if you want to download this film join telegram channel below and get it*\n";
     _0x1d9b0f += " ``` https://t.me/ibrahimtechai```\n";
-    _0x1d9b0f += "*BMW MD FILMS SEARCH*\n";
+    _0x1d9b0f += "*CRAZY BOT FILMS SEARCH*\n";
     _0x1d9b0f += "🎬Title    : " + _0x315c2c.Title + "\n";
     _0x1d9b0f += "⭐Assessment : " + _0x315c2c.Rated + "\n";
     _0x1d9b0f += "📆Release    : " + _0x315c2c.Released + "\n";
@@ -144,7 +144,7 @@ adams({
     _0x1d9b0f += "🌍Contry      : " + _0x315c2c.Country + "\n";
     _0x1d9b0f += "🏙️Production : " + _0x315c2c.Production + "\n";
     _0x1d9b0f += "❎imdbVotes : " + _0x315c2c.imdbVotes + "\n";
-    _0x1d9b0f += "🤠Sponsor  :  ©Ibrahim Adams";
+    _0x1d9b0f += "🤠Sponsor  :  ©Dullah Md";
     _0x44c40c.sendMessage(_0x41a878, {
       'image': {
         'url': _0x315c2c.Poster
