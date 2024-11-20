@@ -28,7 +28,7 @@ adams({ nomCom: "cmd", categorie: "General" }, async (dest, zk, commandeOptions)
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault("Africa/Nairobi");
+    moment.tz.setDefault("Africa/Tanzania");
 
 // Créer une date et une heure en GMT
 const temps = moment().format('HH:mm:ss');
