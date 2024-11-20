@@ -35,12 +35,12 @@ adams({
     if (/image\/.*/.test(contentType)) {
       await _0x726ab.sendMessage(_0x34e935, {
         image: { url: fetchUrl },
-        caption: "> > *BMW MD*"
+        caption: "> > *CRAZY BOT*"
       }, { quoted: _0x295c2d.ms });
     } else if (/video\/.*/.test(contentType)) {
       await _0x726ab.sendMessage(_0x34e935, {
         video: { url: fetchUrl },
-        caption: "> > *BMW MD*"
+        caption: "> > *CRAZY BOT*"
       }, { quoted: _0x295c2d.ms });
     } else if (/text|json/.test(contentType)) {
       try {
@@ -53,7 +53,7 @@ adams({
     } else {
       await _0x726ab.sendMessage(_0x34e935, {
         document: { url: fetchUrl },
-        caption: "> > *BMW MD*"
+        caption: "> > *CRAZY BOT*"
       }, { quoted: _0x295c2d.ms });
     }
   } catch (error) {
