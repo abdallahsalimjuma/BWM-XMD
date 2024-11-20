@@ -175,7 +175,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/.",
+                                        "https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
