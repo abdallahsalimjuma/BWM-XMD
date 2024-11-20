@@ -57,7 +57,7 @@ adams({
   }
   const _0x5d8397 = await fetch("https://api.prabath-md.tech/api/tiktokdl?url=" + _0x21bd31);
   const _0x38d5e1 = await _0x5d8397.json();
-  await _0x1a32e5("A moment, *BMW-MD* is Downloading that...");
+  await _0x1a32e5("A moment, *CRAZY-BOT* is Downloading that...");
   const _0x504587 = _0x38d5e1.data.no_wm;
   await _0x3a058d.sendMessage(_0x42b1bf, {
     'video': {
@@ -180,7 +180,7 @@ adams({
   } = _0x216827;
   let _0x35e7e3 = _0x1091be.join(" ");
   if (!_0x1091be[0]) {
-    _0x330fea("Please insert a *TWITTER or X Video Link* for *CRAZT-BOT* to download ");
+    _0x330fea("Please insert a *TWITTER or X Video Link* for *CRAZY-BOT* to download ");
     return;
   }
   try {
