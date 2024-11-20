@@ -57,9 +57,9 @@ adams({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Ibrahim", numero: "254710772666" },
-      { nom: "᚛Baraka᚜", numero: "255762190568" },
-      { nom: "Beltah", numero: "254114141192" },
+      { nom: "Dullah", numero: "255716945971" },
+      { nom: "᚛Fredi᚜", numero: "255620814108" },
+      { nom: "CRAZY", numero: "255756715126" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -97,7 +97,7 @@ else {
 adams({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING BMW, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔") 
+  repondre("THANK YOU FOR CHOOSING BMW, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@ibrahimaitech] \n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BMW-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
