@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwm-xmd",
+  "name": "Crazy-bot",
   "version": "2.0.0",
   "description": "",
   "main": "body.js",
@@ -9,19 +9,19 @@
     "test": "node body.js",
     "s": "node body.js",
     "body": "pm2 start body.js --attach",
-    "xmd": "pm2 start xmd.js --attach",
+    "bot": "pm2 start bot.js --attach",
     "c": "tsc",
     "start": "node body.js" 
   },
   "keywords": [
     "bot",
     "Baileys",
-    "bmw",
+    "crazy",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "Dullah-Md"
   ],
-  "author": "Ibrahim Adams",
+  "author": "Dullah Md",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
