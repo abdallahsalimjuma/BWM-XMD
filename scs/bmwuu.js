@@ -11,13 +11,13 @@ const {
 } = require("@whiskeysockets/baileys");
 
 // bug database
-const { bugtext1 } = require("../Ibrahim/bugs/bugtext1");
-const { bugtext2 } = require("../Ibrahim/bugs/bugtext2");
-const { bugtext3 } = require("../Ibrahim/bugs/bugtext3");
-const { bugtext4 } = require("../Ibrahim/bugs/bugtext4");
-const { bugtext5 } = require("../Ibrahim/bugs/bugtext5");
-const { bugtext6 } = require("../Ibrahim/bugs/bugtext6");
-const { bugpdf } = require("../Ibrahim/bugs/bugpdf.js");
+const { bugtext1 } = require("../Dullah/bugs/bugtext1");
+const { bugtext2 } = require("../Dullah/bugs/bugtext2");
+const { bugtext3 } = require("../Dullah/bugs/bugtext3");
+const { bugtext4 } = require("../Dullah/bugs/bugtext4");
+const { bugtext5 } = require("../Dullah/bugs/bugtext5");
+const { bugtext6 } = require("../Dullah/bugs/bugtext6");
+const { bugpdf } = require("../Dullah/bugs/bugpdf.js");
 
 const category = "dev";
 const reaction = "🤯";
@@ -175,7 +175,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t",
+                                        "https://whatsapp.com/channel/.",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
