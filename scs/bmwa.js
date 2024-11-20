@@ -4,9 +4,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+CRAZY BOT
 
-Made by dev Ibrahim Adams
+Made by dev Dullah Md
 
 
                  _.u[[/;:,.         .odMMMMMM'
