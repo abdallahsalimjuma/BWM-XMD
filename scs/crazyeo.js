@@ -23,7 +23,7 @@ adams({
     const _0x20cf11 = "CRAZY BOT 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 DULLAH MD.\n\n𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴\n\n📂 Repository Name: *CRAZY-BOT*\n📝 Last Update: " + _0x50985d.lastUpdate + "\n👤 Owner: *Dullah Md*\n⭐ Stars: " + _0x50985d.stars + "\n🍴 Forks: " + _0x50985d.forks + "\n🌐 Repo: " + _0x36b130.html_url + "\n⭕ For More Info : https://github.com/abdallahsalimjuma/DULLAH-MD-INFO⁠\n";
     await _0x3cdb38.sendMessage(_0x256950, {
       'image': {
-        'url': "https://telegra.ph/file/17c83719a1b40e02971e4.jpg"
+        'url': "https://files.catbox.moe/hlpfuu.jpg"
       },
       'caption': _0x20cf11
     });
@@ -48,7 +48,7 @@ adams({
     const _0x305ae3 = "CRAZY BOT 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 DULLAH MD.\n\n𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴\n\n📂 Repository Name: *CRAZY-BOT*\n📝 Last Update: " + _0x33ab65.lastUpdate + "\n👤 Owner: *Dullah Md*\n⭐ Stars: " + _0x33ab65.stars + "\n🍴 Forks: " + _0x33ab65.forks + "\n🌐 Repo: " + _0x54f98d.html_url + "\n⭕ For More Info : https://github.com/abdallahsalimjuma/DULLAH-MD";
     await _0xc5957d.sendMessage(_0x2ad97e, {
       'image': {
-        'url': "https://telegra.ph/file/17c83719a1b40e02971e4.jpg"
+        'url': "https://files.catbox.moe/hlpfuu.jpg"
       },
       'caption': _0x305ae3
     });
@@ -61,7 +61,7 @@ adams({
   'reaction': '📂',
   'nomFichier': __filename
 }, async (_0x1f8a03, _0x41191c, _0x8dd7fa) => {
-  const _0x21464f = await fetch("https://api.github.com/repos/devibraah/BWM-XMD");
+  const _0x21464f = await fetch("https://api.github.com/repos/abdallahsalimjuma/CRAZY-BOT-V4");
   const _0x3fb866 = await _0x21464f.json();
   if (_0x3fb866) {
     const _0x4bac21 = {
@@ -73,7 +73,7 @@ adams({
     const _0x58e2e9 = "CRAZY BOT 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 DULLAH MD.\n\n𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴\n\n📂 Repository Name: *CRAZY-BOT*\n📝 Last Update: " + _0x4bac21.lastUpdate + "\n👤 Owner: *Dullah Md*\n⭐ Stars: " + _0x4bac21.stars + "\n🍴 Forks: " + _0x4bac21.forks + "\n🌐 Repo: " + _0x3fb866.html_url + "\n⭕ For More Info : https://github.com/abdallahsalimjuma/DULLAH-MD-INFO⁠\n";
     await _0x41191c.sendMessage(_0x1f8a03, {
       'image': {
-        'url': "https://telegra.ph/file/17c83719a1b40e02971e4.jpg"
+        'url': "https://files.catbox.moe/hlpfuu.jpg"
       },
       'caption': _0x58e2e9
     });
@@ -98,7 +98,7 @@ adams({
     const _0x338973 = "CRAZY BOT 𝐆𝐈𝐓𝐇𝐔𝐁 𝐈𝐍𝐅𝐎𝐌𝐄𝐓𝐈𝐎𝐍.  \n𝐂𝐑𝐄𝐓𝐄𝐃 𝐁𝐘 DULLAH MD.\n\n𝐒𝐓𝐀𝐑⭐ 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎 𝐓𝐇𝐄𝐍 𝐅𝐎𝐑𝐊🍴\n\n📂 Repository Name: *CRAZY-BOT*\n📝 Last Update: " + _0x4777ba.lastUpdate + "\n👤 Owner: *Dullah Md*\n⭐ Stars: " + _0x4777ba.stars + "\n🍴 Forks: " + _0x4777ba.forks + "\n🌐 Repo: " + _0x40fb34.html_url + "\n⭕ For More Info : https://github.com/abdallahsalimjuma/DULLAH-MD-INFO⁠\n";
     await _0x300ccb.sendMessage(_0x44e4c9, {
       'image': {
-        'url': "https://telegra.ph/file/17c83719a1b40e02971e4.jpg"
+        'url': "https://files.catbox.moe/hlpfuu.jpg"
       },
       'caption': _0x338973
     });
