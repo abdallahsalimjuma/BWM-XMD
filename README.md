@@ -13,3 +13,8 @@ CRAZY BOT v4
   
 </h1> 
 <p align="center">l introduce <b>CRAZY-BOT</b>, a  simple WhatsApp bot Created By CRAZY</p>
+
+
+**2. If You Have Account On Heroku**
+
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main)***
