@@ -17,4 +17,4 @@ CRAZY BOT v4
 
 **2. If You Have Account On Heroku**
 
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/CRAZY-BOT-V4/tree/main)***
