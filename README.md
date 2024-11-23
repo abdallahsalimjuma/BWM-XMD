@@ -7,7 +7,7 @@ CRAZY BOT v4
 
 <p align="center">
   <a href="https://github.com/abdallahsalimjuma">
-    <img alt="CRAZY BOT logo" height="200" src="https://files.catbox.moe/hegdag.jpg">
+    <img alt="CRAZY BOT logo" height="200" src="https://files.catbox.moe/hlpfuu.jpg">
   </a>
 </p>
   
