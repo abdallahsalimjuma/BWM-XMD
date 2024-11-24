@@ -55,7 +55,7 @@ CRAZY BOT v4
 ## Fork Dullah Md 💥 Repo
 
 
-<a href="https://github.com/abdallahsalimjuma/Dullah_Md/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/abdallahsalimjuma/CRAZY-BOT-V4/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK REPO-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 star✨ my repo bruh don't forget please🤖
 
@@ -80,7 +80,7 @@ star✨ my repo bruh don't forget please🤖
 
 **2. If You Have Account On Heroku**
 
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Dullah-Md/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/CRAZY-BOT-V4/tree/main)***
 
 **DEPLOY ON RENDER**
 
@@ -130,17 +130,17 @@ CONTACT DEVELOPER ON WHATSAPP
 
 ## License
 
-The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot CRAZY BOT 💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-💫THANK YOU FOR CHOOSING Dullah Md💫
+💫THANK YOU FOR CHOOSING CRAZY BOT💫
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
          `don't change here`
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
 - [**DULLAH MD**](https://github.com/DULLAH_MD)
-- [** FRECYBER TECH**](https://github.com/Frecyber)
+- [** CRAZY BOT TECH**](https://github.com/abdallahsalimjuma)
 - [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
